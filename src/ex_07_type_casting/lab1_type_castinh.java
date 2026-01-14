@@ -1,4 +1,4 @@
-package ex_o7_type_casting;
+package ex_07_type_casting;
 
 public class lab1_type_castinh {
     static void main(String[] args) {
