@@ -1,4 +1,4 @@
-package ex_04_operators;
+package ex_05_operators;
 
 public class lab001_assignment {
     static void main(String[] args) {
