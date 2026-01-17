@@ -1,6 +1,6 @@
 package ex_15_Arrays;
 
-public class lab_10_sh {
+public class lab10_sh {
    public static void main(String[] args) {
        int[] arr= {45,23,98,75,64};
 
