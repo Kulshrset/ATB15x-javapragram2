@@ -1,0 +1,12 @@
+constructor is  a special method which invoked automatically at the time of object  reation.
+
+person p=new person();
+it is used to initialize the data member (sttributes) of new objects generally.
+constructor have teh same name as classor structure.
+constructor s dont hav e areturn type .(not even void)
+constructors are only called once, atobject creation.
+
+
+types of constructors
+default
+parametrised
