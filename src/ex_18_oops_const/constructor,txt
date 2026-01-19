@@ -7,6 +7,14 @@ constructor s dont hav e areturn type .(not even void)
 constructors are only called once, atobject creation.
 
 
+
+A constructor is used to initialize an object at the time of creation.
+It assigns initial values to instance variables.
+It ensures the object starts in a valid and usable state.
+
+
+
+
 types of constructors
 default
 parametrised
