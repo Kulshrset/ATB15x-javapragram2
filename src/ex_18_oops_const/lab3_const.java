@@ -5,6 +5,4 @@ public class lab3_const {
 
 
 
-calss Baby(){
 
-        }
