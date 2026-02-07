@@ -1,0 +1,37 @@
+One thing can behave in different ways.
+
+Simple example (real life)
+
+A person can be:
+
+a student in school
+
+an employee in office
+
+a son/daughter at home
+
+Same person, different roles → this is polymorphism.
+
+In Java (very simple)
+
+The same method name can do different work.
+
+Example idea:
+
+add(int a, int b) → adds two numbers
+
+add(double a, double b) → adds decimal numbers
+
+Same method name add, but different behavior.
+
+ In one line:
+Polymorphism allows one method or object to perform different actions.
+
+
+RUNTIME-->
+METHOD  OVERRIDING
+
+
+COMPILE TIME//STATIC -->
+METHOD OVERLOADING----->
+                        *same name methods but different parameters
