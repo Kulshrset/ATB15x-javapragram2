@@ -1,0 +1,8 @@
+outside the method(function)
+showing only essential things to the users.
+
+
+It is the process of hiding implementation details
+and showing essential information to the users.
+
+
