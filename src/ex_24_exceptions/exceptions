@@ -1,0 +1,55 @@
+it is a event  that occurs during the exception
+of a program that disrupts the flow of instructions.
+
+
+
+
+
+Exception:
+An exception is an unwanted or abnormal event that
+occurs during program execution and disrupts the normal
+flow of the program, which can be handled by the program.
+
+Error:
+An error is a serious problem that occurs due
+ to system or JVM failure and cannot be
+ handled by the program.
+
+exception is handle by try ,catch or throws
+
+
+
+
+ 1. Checked Exceptions
+ Checked exceptions are exceptions that
+ are checked by the compiler at compile time and must be handled using try-catch or throws.
+
+ Example: IOException, SQLException
+
+
+
+ 2. Unchecked Exceptions
+ Unchecked exceptions are exceptions that are checked at runtime and occur due to programming mistakes.
+
+ Example: NullPointerException, ArithmeticException, ArrayIndexOutOfBoundsException
+
+
+
+ 3. User-Defined (Custom) Exceptions
+ User-defined exceptions are exceptions created by the programmer to handle application-specific problems.
+
+ Example: InvalidAgeException
+
+
+final:
+final is a keyword in Java used to restrict modification;
+it is applied to variables,
+methods, and classes to prevent change, overriding, or inheritance.
+
+finally:
+finally is a block in Java that is used with try-catch
+and always executes, whether an exception occurs or not,
+ mainly for cleanup code.
+
+
+
