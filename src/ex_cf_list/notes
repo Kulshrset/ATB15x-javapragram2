@@ -1,0 +1,62 @@
+ArrayList – Definition
+
+ArrayList Java Collection Framework ka ek class hai jo List interface ko implement karta hai.
+Iska use dynamic array banane ke liye hota hai, jisme elements ko add, remove aur access easily kiya ja sakta hai.
+
+Easy words mein
+
+Size fixed nahi hota (automatically grow/shrink hota hai)
+
+Index-based hota hai (0 se start)
+
+Duplicate values allowed hoti hain
+
+Insertion order maintain karta hai
+
+One-line definition (exam ke liye)
+
+ArrayList is a resizable array implementation of the List interface in Java.
+
+
+
+
+
+LinkedList – Definition
+
+LinkedList Java Collection Framework ka ek class hai jo List aur Deque interfaces ko implement karta hai.
+Isme data nodes ke form mein store hota hai, jahan har node me data + next (aur previous) node ka reference hota hai.
+
+Easy language mein
+
+Data nodes mein store hota hai
+
+Har node next (aur previous) node se linked hota hai
+
+Insertion aur deletion fast hota hai
+
+Duplicate elements allowed
+
+Insertion order maintain karta hai
+
+One-line (exam ready)
+
+LinkedList is a collection class that stores elements as nodes connected using links.
+
+ArrayList vs LinkedList (short difference)
+
+ArrayList → fast access, slow insertion/deletion
+
+LinkedList → slow access, fast insertion/deletion
+
+
+
+
+
+
+List is an interface in Java that stores elements in an ordered sequence and allows duplicates.
+
+
+
+
+
+
