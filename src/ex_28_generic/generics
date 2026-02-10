@@ -1,0 +1,9 @@
+Definition of Generics (Java):
+
+Generics in Java allow us to create classes, methods, and interfaces
+that work with different data types while ensuring type safety at compile time.
+
+📘 Exam-friendly short version:
+
+Generics enable type-safe code by
+allowing parameters to define data types in classes and methods.

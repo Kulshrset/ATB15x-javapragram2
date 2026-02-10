@@ -1,0 +1,40 @@
+ollection Framework is a set of classes and interfaces
+ in Java that is used to store,
+ manage, and manipulate a group of objects efficiently.
+
+Why do we need Collection Framework?
+
+Arrays have fixed size
+
+No ready-made methods like add, delete, search
+
+Collections solve these problems
+
+
+
+Main parts of Collection Framework
+1️⃣ Interfaces
+
+They define rules / structure
+List – allows duplicates (ArrayList, LinkedList)
+Set – no duplicates (HashSet, TreeSet)
+Queue – follows order (PriorityQueue)
+Map – key-value pairs (HashMap, TreeMap)
+
+2️⃣ Classes
+
+They provide implementation
+
+ArrayList
+LinkedList
+HashSet
+HashMap
+TreeSet
+
+3️⃣ Algorithms
+
+Utility methods from Collections class
+sort()
+reverse()
+shuffle()
+max() / min()

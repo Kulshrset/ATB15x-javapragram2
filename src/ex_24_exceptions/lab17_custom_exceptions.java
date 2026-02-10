@@ -11,9 +11,6 @@ public class lab17_custom_exceptions {
     public void setAmount(Integer amount) {
         this.amount = amount;
     }
-    public Integer add(Bank bankname){
-        return bankname.amount+this.amount;
-    }
 
     public String getCurrency() {
         return currency;

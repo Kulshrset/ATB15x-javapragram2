@@ -1,0 +1,19 @@
+it is a special data type that allows
+you to define a collection of constants.
+
+also called fixed
+
+
+public enum day (sun, tus, wed0
+
+
+it can be reuse.
+
+
+Wrapper classes--> collection only work with objects, not primitive,
+utility methods for parsing, converting, and manipulating values.
+null values-- primitive can,t be null ,but wrapper can.
+Generics require object types
+
+
+because of primitive data type java is not 100% oops
