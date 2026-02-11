@@ -1,8 +1,6 @@
-package ex_cf_list;
+package ex_27_collection_framework.ex_cf_list;
 
-import java.sql.Array;
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
 

@@ -1,0 +1,24 @@
+Short Exam Definition
+
+A Queue is a linear data structure that follows the FIFO principle, where insertion happens at the rear and deletion happens at the front.
+
+
+Definition
+A Queue is a data structure that follows the FIFO (First In, First Out) principle.
+
+👉 The element that is inserted first will be removed first.
+
+🔹 Real-Life Example
+Think of a queue at a ticket counter 🎟️
+The person who stands first gets the ticket first.
+New people join at the back.
+
+
+🔹 Queue Interface in Java
+
+In Java, Queue is an interface in the java.util package.
+Common classes that implement Queue:
+
+LinkedList
+PriorityQueue
+ArrayDeque
