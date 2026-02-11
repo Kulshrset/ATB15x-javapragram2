@@ -1,4 +1,4 @@
-package ex_cf_list;
+package ex_27_collection_framework.ex_cf_list;
 import java.util.Vector;
 public class vectors {
     static void main(String[] args) {

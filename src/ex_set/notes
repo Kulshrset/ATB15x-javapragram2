@@ -1,0 +1,54 @@
+A Set is a part of the Java Collection Framework that stores unique elements (no duplicate values allowed).
+
+👉 It belongs to java.util package.
+👉 It does not maintain index like List.
+👉 It does not allow duplicate elements.
+
+1. HashSet
+
+Definition:
+Stores elements using a hash table.
+
+Features:
+Does NOT maintain insertion order
+Allows one null value
+Fast performance (O(1))
+
+2. LinkedHashSet
+
+Definition:
+Maintains insertion order.
+
+Features:
+Keeps elements in the order they were inserted
+Allows one null
+lightly slower than HashSet
+
+
+
+
+3. TreeSet
+
+Definition:
+Stores elements in sorted (ascending) order.
+
+Features:
+Automatically sorts elements
+Does NOT allow null
+Slower than HashSet (O(log n))
+
+
+
+🔹 What is Synchronization in Java?
+Synchronization is a process that controls the access of multiple threads to shared resources.
+In simple words:
+👉 It makes sure that only one thread can access a critical section (shared data) at a time.
+
+
+
+
+
+What is Iterator in Java?
+
+An Iterator is an interface in Java that is used to traverse (loop through) elements of a collection one by one.
+It is available in the java.util package.
