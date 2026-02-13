@@ -1,5 +1,6 @@
 package ex_queue;
 
+import java.util.LinkedList;
 import java.util.Queue;
 
 public class queue {

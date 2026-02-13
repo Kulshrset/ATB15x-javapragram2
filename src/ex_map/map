@@ -1,0 +1,39 @@
+What is Map (Java)?
+
+In Java, a Map is an interface in the Java Collections Framework that stores data in key–value pairs.
+
+Each key is unique
+Each key maps to exactly one value
+Values can be duplicate, but keys cannot
+
+
+Types of Map in Java
+1️⃣ HashMap
+
+Does not maintain order
+Allows one null key
+Not synchronized
+Fast performance
+
+HashMap<Integer, String> map = new HashMap<>();
+
+
+
+LinkedHashMap
+
+Maintains insertion order
+Allows one null key
+Slightly slower than HashMap
+
+LinkedHashMap<Integer, String> map = new LinkedHashMap<>();
+
+
+
+TreeMap
+
+Maintains sorted order (ascending)
+Does not allow null key
+Slower than HashMap (because it uses Red-Black Tree)
+
+TreeMap<Integer, String> map = new TreeMap<>();
+
